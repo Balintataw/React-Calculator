@@ -81,7 +81,9 @@ class App extends Component {
     return (
       <div className="App">
         <div className="screen">
-          <div className="displayText">{this.state.inputValue}</div>
+          <div className="displayBackground">
+            <div className="displayText">{this.state.inputValue}</div>
+          </div>
         </div>
         <div className="buttons-section">
           {this.renderInputButtons()}
