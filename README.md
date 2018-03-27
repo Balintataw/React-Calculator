@@ -1,4 +1,4 @@
-##CHECK IT OUT HERE https://balintataw.github.io/React-Calculator/
+## CHECK IT OUT HERE https://balintataw.github.io/React-Calculator/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
